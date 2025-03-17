@@ -1,6 +1,6 @@
 ---
 title: GitHub Pre-release License Terms
-allowTitleToDifferFromFilename: true
+allowTitleToDifferFromFilename: false
 redirect_from:
   - /site-policy/github-terms/github-copilot-chat-pre-release-terms
   - /site-policy/github-terms/github-copilot-pre-release-terms
